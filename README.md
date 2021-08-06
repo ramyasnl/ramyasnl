@@ -2,7 +2,7 @@
 
 
 ## I'm a Wife, MOM, Developer, and Teacher!!!
-<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" width="30" height="30" /> Completed Bootcamp in Data Analytics Certified by The University Of California Berkeley!! </br>
+<img src="https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" width="25" height="25" /> Completed Bootcamp in Data Analytics Certified by The University Of California Berkeley!! </br>
 🌱 Currently I’m learning everything & Always happy to learn 🤣</br>
 👯 I’m looking to collaborate with other content creators</br>
 🥅 2021 Goals: Contribute more to Open Source projects,To be a Data Analytics Professional</br>
